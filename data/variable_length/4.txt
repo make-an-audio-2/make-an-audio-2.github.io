@@ -1,0 +1,5 @@
+origin input: An adult male speaks, and a crowd laughs and then cheers and applauds 
+<br/>
+structured: &ltadult male speaking& start&gt@&ltcrowd laughing& mid&gt@&ltcrowd cheering& mid&gt@&ltcrowd applauding& end&gt
+<br/>
+length: 12s

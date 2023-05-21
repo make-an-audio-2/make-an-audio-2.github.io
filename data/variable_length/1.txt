@@ -1,0 +1,5 @@
+origin input: A helicopter flies with loud chopping noises
+<br/>
+structured: &lthelicopter flies with loud chopping noises& all&gt
+<br/>
+length: 3s

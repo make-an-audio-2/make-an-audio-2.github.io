@@ -1,0 +1,5 @@
+origin input: a man is thrusted by a sword and scream then fall on the ground
+<br/>
+structured: &ltman thrusted by a sowrd& start&gt@&ltman scream& mid&gt@&ltman fall on ground& end&gt
+<br/>
+length: 2s

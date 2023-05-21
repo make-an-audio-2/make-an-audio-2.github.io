@@ -1,0 +1,5 @@
+origin input: Wind blowing followed by people speaking then a loud burst of thunder 
+<br/>
+structured: &ltwind blowing& start&gt@&ltpeople speaking& mid&gt@&ltthunder& end&gt  
+<br/>
+length: 19s
