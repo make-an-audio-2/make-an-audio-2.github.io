@@ -36,7 +36,7 @@ function createAudioHTML(path) {
     let table = document.getElementById(tableId);
     let ext = ['.txt', '_maa2.wav', '_maa1.wav','_ldm.wav', '_tango.wav'];
   
-    for (var i = 0; i < 8; i++) {
+    for (var i = 0; i < 9; i++) {
       generateExampleRow(table.rows[1 + i], 'data/variable_length/' + i, ext, 0);
     }
   }
