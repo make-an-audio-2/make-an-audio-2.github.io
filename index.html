@@ -52,8 +52,8 @@
     </body>
         <p>
             High-level overview of Make-An-Audio 2. Note that modules printed with a lock are
-            frozen when training the T2A model. The Text Encoder takes original natural language text as input. And the Temporal Encoder takes the LLMs-parsed structured caption as its input. The structured input is parsed before the training process.
-            The training process are seperated into two stages. The first stage we train the Audio VAE. The second stage we train the T2A diffusion module and freeze the parameters of Audio VAE and Text Encoder.
+            frozen when training the T2A model. The Text Encoder takes original natural language text as input. And the Temporal Encoder takes the LLMs-parsed structured caption as its input. The structured inputs are parsed before the training process.
+            The training process are seperated into two stages. The first stage we train the Audio VAE. The second stage we train the T2A diffusion module and freeze the parameters of both Audio VAE and Text Encoder.
         </p>
 </div>
 
