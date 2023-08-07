@@ -1,0 +1,3 @@
+origin input: A vehicle engine running idle then revving several times before a car door slams shut
+<br/>
+structured: &ltvehicle engine idle & start&gt@&ltvehicle engine revving & mid&gt@&ltcar door slamming & end&gt

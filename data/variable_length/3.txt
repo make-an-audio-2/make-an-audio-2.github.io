@@ -1,0 +1,5 @@
+origin input: a music made by violin
+<br/>
+structured: &lta music made by violin & all&gt
+<br/>
+length: 5s

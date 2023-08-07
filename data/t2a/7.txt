@@ -1,0 +1,3 @@
+origin input: A river stream flowing followed by a kid talking
+<br/>
+structured: &ltriver stream flowing & all&gt@&ltkid talking & end&gt

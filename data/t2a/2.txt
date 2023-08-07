@@ -1,0 +1,3 @@
+origin input: A man speaks followed by a popping noise and laughter
+<br/>
+structured: &ltman speaking & all&gt@&ltpopping noise & mid&gt@&ltlaughter & end&gt

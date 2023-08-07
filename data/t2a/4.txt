@@ -1,0 +1,3 @@
+origin input: Someone whistles followed by a bird tweeting with chirps in the background
+<br/>
+structured: &ltwhistles & start&gt@&ltbird tweeting & end&gt

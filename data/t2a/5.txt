@@ -1,0 +1,3 @@
+origin input: A bicycle peddling on dirt and gravel followed by a man speaking then laughing
+<br/>
+structured: &ltbicycle peddling on dirt and gravel & start&gt@&ltman speaking & mid&gt@&ltman laughing & end&gt

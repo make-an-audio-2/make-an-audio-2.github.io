@@ -1,0 +1,5 @@
+origin input: Wood thumping and a series of metal clanks while a swarm of insects are buzzing and birds chirp in the distance 
+<br/>
+structured: &ltwood thumping& start&gt@&ltmetal clanks& mid&gt@&ltswarm of insects buzzing& all&gt@&ltbirds chirping in distance& all&gt
+<br/>  
+length: 25s

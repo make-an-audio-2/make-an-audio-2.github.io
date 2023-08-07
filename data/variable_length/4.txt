@@ -1,0 +1,5 @@
+origin input: Music plays over an engine noise 
+<br/>
+structured: &ltmusic playing& all&gt@&ltengine noise& all&gt  
+<br/>
+length: 8s

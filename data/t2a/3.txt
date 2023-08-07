@@ -1,0 +1,3 @@
+origin input: A rocket flies by followed by a loud explosion and fire crackling as a truck engine runs idle
+<br/>
+structured: &ltrocket flying by & start&gt@&ltloud explosion & mid&gt@&ltfire crackling & mid&gt@&lttruck engine idle & mid&gt

@@ -1,0 +1,14 @@
+A train running on railroad tracks followed by a train horn blowing and steam hissing
+&lttrain running on railroad tracks & all&gt@&lttrain horn blowing & end&gt@&ltsteam hissing & end&gt
+&lttrain running on railroad tracks & all&gt@&lttrain horn blowing & mid&gt@&ltsteam hissing & end&gt
+
+Wind blowing followed by people speaking then a loud burst of thunder
+&ltwind blowing & all&gt@&ltpeople speaking & mid&gt@&ltthunder & end&gt
+&ltwind blowing & start&gt@&ltpeople speaking & mid&gt@&ltthunder & end&gt
+
+Winds and ocean waves crashing while a chime instrument briefly plays a melody
+&ltwinds & all&gt@&ltocean waves crashing & all&gt@&ltchime instrument melody & all&gt
+
+Constant faint humming and a few light knocks
+&ltconstant faint humming & all&gt@&lta few light knocks & start&gt
+&ltconstant faint humming & all&gt@&lta few light knocks & end&gt

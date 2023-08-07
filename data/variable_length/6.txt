@@ -1,0 +1,5 @@
+origin input: train blowing horn then approaching track sounds 
+<br/>
+structured: &lttrain blowing horns& start&gt@&ltapproaching track sounds& end&gt  
+<br/>
+length: 16s

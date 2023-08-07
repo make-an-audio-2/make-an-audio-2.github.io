@@ -1,0 +1,3 @@
+origin input: A man talking followed by a goat baaing then a metal gate sliding shut as ducks quack and wind blows into a microphone
+<br/>
+structured: &ltman talking & start&gt@&ltgoat baaing & mid&gt@&ltmetal gate sliding & mid&gt@&ltducks quacking & mid&gt@&ltwind blowing & end&gt

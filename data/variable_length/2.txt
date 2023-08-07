@@ -1,0 +1,5 @@
+origin input: emergency sirens wailing as a vehicle accelerates in the distance 
+<br/>
+structured: &ltemergency sirens& all&gt@&ltvehicle accelerates& all&gt 
+<br/>
+length: 4s

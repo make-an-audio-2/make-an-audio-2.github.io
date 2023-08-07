@@ -1,0 +1,3 @@
+origin input: A rooster clucking followed by a dog whimpering then a man talking and a dog barking
+<br/>
+structured: &ltrooster clucking & start&gt@&ltdog whimpering & mid&gt@&ltman talking & mid&gt@&ltdog barking & end&gt

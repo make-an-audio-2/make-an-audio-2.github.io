@@ -1,0 +1,3 @@
+origin input: A man yelling in the distance as several basketballs bounce and shoes squeak on hardwood floors
+<br/>
+structured: &ltman yelling in background & all&gt@&ltbasketballs bouncing & start&gt@&ltshoes squeaking on hardwood & mid&gt
